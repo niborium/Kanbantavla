@@ -1,5 +1,8 @@
-# Kanban Meta Grupp 3
-Repo för grupparbetet Kanban Meta 3 (WU21)
+# Kanbantavla
+Kanbantavla gjort i grupparbetet Kanban Meta 3 (WU21) Vecka 41 och 42 - 2021.
 
-Github pages:
-https://sofiamarhaug.github.io/kanban_meta_grupp3/
+Testlänk:
+https://niborium.github.io/Kanbantavla/
+
+Testkonton/finns nedan:
+https://github.com/niborium/Kanbantavla/blob/main/inloggningsuppgifter.json
