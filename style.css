@@ -63,7 +63,7 @@ body {
 .outerKanbanColumn{
     background-color: #BCBCBC;
     margin: 0.5rem;
-    width: 42rem;
+    width: 350px;
     height: auto;
     overflow:hidden;
     border-radius: 5px;
