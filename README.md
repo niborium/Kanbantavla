@@ -1,5 +1,5 @@
 # Kanbantavla
-Kanbantavla gjort i grupparbetet Kanban Meta 3 (WU21) Vecka 41 och 42 - 2021.
+Kanbantavla gjord i grupparbetet Kanban Meta 3 (WU21) Vecka 41 och 42 - 2021.
 
 Testlänk:
 https://niborium.github.io/Kanbantavla/
